@@ -1,4 +1,4 @@
-<img align="right" height="400" width="650" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<img align="right" height="400" width="650" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
 
 <h1 align="left">Hi 👋, I'm Ritesh Mendhkar</h1>
 
