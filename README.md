@@ -2,8 +2,9 @@
 
 <h1 align="left">Hi 👋, I'm Ritesh Mendhkar</h1>
 
-<h3 align="left">A passionate Web developer, started my development journey this year</h3>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h3 align="left">Web developer, started my development journey this year</h3>
+<br><br><br><br><br><br><br><br><br>
+
 - 🌱 I’m currently learning **JavaScript/React and Dsa**
 
 - I’m looking to collaborate on Frontend development based projects.
