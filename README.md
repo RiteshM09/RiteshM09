@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaScript/React and Dsa**
 
+- I’m looking to collaborate on Frontend development based projects.
+
 - 👨‍💻 All of my projects are available at [https://riteshm09.github.io/Personal-Potfolio/](https://riteshm09.github.io/Personal-Potfolio/)
 
 - 💬 Ask me about **front-end, frameworks, JS**
