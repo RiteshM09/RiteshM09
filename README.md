@@ -1,9 +1,13 @@
-<img align="right" style="height=390vh" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
+<p align="right">
+<img  width="1000" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
+</p>
+<br>
 
-<h1 align="left">Hi 👋, I'm Ritesh Mendhkar</h1>
+<h1 align="left" >Hi 👋, I'm Ritesh Mendhkar</h1>
 
 <h3 align="left">Web developer, started my development journey this year</h3>
-<br><br><br><br><br><br><br><br>
+<br><br><br>
+
 
 - 🌱 I’m currently learning **JavaScript/React and Dsa**
 
