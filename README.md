@@ -1,4 +1,4 @@
-<img align="right" style="height=400vh" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
+<img align="right" style="height=390vh" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
 
 <h1 align="left">Hi 👋, I'm Ritesh Mendhkar</h1>
 
