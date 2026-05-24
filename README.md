@@ -5,7 +5,7 @@
 
 <h1 align="left" >Hi 👋, I'm Ritesh Mendhkar</h1>
 
-<h3 align="left">Web developer, started my development journey this year</h3>
+<h3 align="left">Web developer, started my development journey since 2024</h3>
 <br><br>
 
 
