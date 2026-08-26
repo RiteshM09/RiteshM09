@@ -8,7 +8,7 @@
 <h3 align="left">Web developer, started my development journey since 2024</h3>
 <br><br>
 
-* 🌱 I’m currently learning **JavaScript/React and Dsa**
+* 🌱 I’m currently learning **JavaScript/Mern with Dsa**
 
 * I’m looking to collaborate on Frontend development based projects.
 
@@ -58,6 +58,3 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshm09&show_icons=true&locale=en&layout=compact" alt="riteshm09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshm09&show_icons=true&locale=en" alt="riteshm09" /></p>
