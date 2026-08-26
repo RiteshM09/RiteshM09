@@ -8,17 +8,17 @@
 <h3 align="left">Web developer, started my development journey since 2024</h3>
 <br><br>
 
-* 🌱 I’m currently learning **JavaScript/Mern with Dsa**
+* 🌱 I’m currently learning **JavaScript/Mern, AWS cloud & Dsa**
 
 * I’m looking to collaborate on Frontend development based projects.
 
-* 👨‍💻 All of my projects are available at https://riteshm09.github.io/Personal-Potfolio/
+* 👨‍💻 All of my projects are available at https://riteshm09.github.io/Personal-Potfolio/ 
 
 * 💬 Ask me about **front-end, frameworks, JS**
 
 * 📫 How to reach me **[riteshmendekar09@gmail.com](mailto:riteshmendekar09@gmail.com)**
 
-* 📄 Know about my experiences https://emerald-maud-9.tiiny.site/
+* 📄 Know about my experiences https://emerald-maud-9.tiiny.site/ ~LastUpdated(dec 2025)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
