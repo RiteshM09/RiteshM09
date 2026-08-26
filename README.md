@@ -1,29 +1,30 @@
 <p align="right">
-<img  width="1000" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
+<img width="1000" src="https://github.com/RiteshM09/RiteshM09/blob/main/Users.gif"/>
 </p>
 <br>
 
-<h1 align="left" >Hi 👋, I'm Ritesh Mendhkar</h1>
+<h1 align="left">Hi 👋, I'm Ritesh Mendhkar</h1>
 
 <h3 align="left">Web developer, started my development journey since 2024</h3>
 <br><br>
 
+* 🌱 I’m currently learning **JavaScript/React and Dsa**
 
-- 🌱 I’m currently learning **JavaScript/React and Dsa**
+* I’m looking to collaborate on Frontend development based projects.
 
-- I’m looking to collaborate on Frontend development based projects.
+* 👨‍💻 All of my projects are available at https://riteshm09.github.io/Personal-Potfolio/
 
-- 👨‍💻 All of my projects are available at [https://riteshm09.github.io/Personal-Potfolio/](https://riteshm09.github.io/Personal-Potfolio/)
+* 💬 Ask me about **front-end, frameworks, JS**
 
-- 💬 Ask me about **front-end, frameworks, JS**
+* 📫 How to reach me **[riteshmendekar09@gmail.com](mailto:riteshmendekar09@gmail.com)**
 
-- 📫 How to reach me **riteshmendekar09@gmail.com**
-
-- 📄 Know about my experiences [https://emerald-maud-9.tiiny.site/](https://emerald-maud-9.tiiny.site/)
+* 📄 Know about my experiences https://emerald-maud-9.tiiny.site/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ritesh-mendhekar-b981201b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritesh-mendhekar-b981201b8/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,8 +49,11 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
 </p>
@@ -57,10 +61,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riteshm09&show_icons=true&locale=en&layout=compact" alt="riteshm09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riteshm09&show_icons=true&locale=en" alt="riteshm09" /></p>
-
-<!-- 🏆 Trophy Section -->
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=riteshm09" alt="riteshm09 trophies" />
-  </a> 
-</p>
